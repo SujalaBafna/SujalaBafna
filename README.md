@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dl1iwajpi/image/upload/v1757069538/Sujal_GITHUB_Banner_a70qsr.png" alt="Sujal Bafna Banner" />
+  <img src="https://res.cloudinary.com/dl1iwajpi/image/upload/v1757419828/Sujal_GITHUB_Banner_1_r9rsr7.png" alt="Sujal Bafna Banner" />
 </p>
 
 # Hi, I’m Sujal Bafna 👋  
