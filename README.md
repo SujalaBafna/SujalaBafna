@@ -48,7 +48,7 @@ Futuristic, animated dark-themed portfolio site showcasing projects, experiences
 ---
 
 ## 🌐 Connect With Me
-- 📩 **Email**: sujal.bafna24@gmail.com  
+- 📩 **Email**: sujalabafna@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/sujal-bafna)  
 - 🌐 [Portfolio Website](https://sujalabafna.github.io/portfolio-site/)  
 
