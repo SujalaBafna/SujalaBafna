@@ -20,19 +20,28 @@ Designing intelligent hardware systems that seamlessly blend into real-world env
 
 ## 🚀 Selected Projects
 
-### 🔹 UAV Auto-Route & Angle Correction  
+### 🔹 [UAV Auto-Route & Angle Correction](https://github.com/USERNAME/Aeron-Systems-Case-Studies)    
 A lightweight, PID-based embedded control framework for real-time trajectory stabilization using minimal sensors.  
 **Tech:** STM32 · MATLAB · Embedded C  
 
 ---
 
-### 🔹 Seedling Planting Robot (Robocon AIR 3)  
-Designed an omni-directional robot for precision seedling placement in the ABU Robocon competition.  
-**Tech:** STM32 · Robotics · CAD  
+### 🔹 [Industrial Case Studies @ Aeron Systems](https://github.com/USERNAME/Aeron-Systems-Case-Studies)  
+Hands-on R&D and hardware design:  
+- Custom hardware library development  
+- Solar IV curve monitoring system  
+- Production-ready accessory PCB design (150+ units)  
+**Tech:** Altium · STM32 · PCB Design  
 
 ---
 
-### 🔹 Personal Portfolio Website  
+### 🔹 [Piston Board – Embedded System](https://github.com/USERNAME/Piston-Board-Embedded-System)  
+Custom embedded hardware platform for **sensor-actuator interfacing** and real-time data acquisition.  
+**Tech:** STM32 · Altium Designer  
+
+---
+
+### 🔹 [Personal Portfolio Website](https://github.com/USERNAME/Aeron-Systems-Case-Studies)    
 Futuristic, animated dark-themed portfolio site showcasing projects, experiences, and publications.  
 🔗 [Visit Here →](https://sujalabafna.github.io/portfolio-site/)  
 
