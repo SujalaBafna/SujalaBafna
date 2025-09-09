@@ -20,13 +20,13 @@ Designing intelligent hardware systems that seamlessly blend into real-world env
 
 ## 🚀 Selected Projects
 
-### 🔹 [UAV Auto-Route & Angle Correction](https://github.com/USERNAME/Aeron-Systems-Case-Studies)    
+### 🔹 [UAV Auto-Route & Angle Correction](https://github.com/SujalaBafna/UAV-Stabilization-Trajectory-Correction)    
 A lightweight, PID-based embedded control framework for real-time trajectory stabilization using minimal sensors.  
 **Tech:** STM32 · MATLAB · Embedded C  
 
 ---
 
-### 🔹 [Industrial Case Studies @ Aeron Systems](https://github.com/USERNAME/Aeron-Systems-Case-Studies)  
+### 🔹 [Industrial Case Studies @ Aeron Systems](https://github.com/SujalaBafna/Aeron-Systems-Case-Studies)  
 Hands-on R&D and hardware design:  
 - Custom hardware library development  
 - Solar IV curve monitoring system  
@@ -35,13 +35,13 @@ Hands-on R&D and hardware design:
 
 ---
 
-### 🔹 [Piston Board – Embedded System](https://github.com/USERNAME/Piston-Board-Embedded-System)  
+### 🔹 [Piston Board – Embedded System](https://github.com/SujalaBafna/Smart-Piston-Board-Embedded-System)  
 Custom embedded hardware platform for **sensor-actuator interfacing** and real-time data acquisition.  
 **Tech:** STM32 · Altium Designer  
 
 ---
 
-### 🔹 [Personal Portfolio Website](https://github.com/USERNAME/Aeron-Systems-Case-Studies)    
+### 🔹 [Personal Portfolio Website](https://github.com/SujalaBafna/portfolio-site)    
 Futuristic, animated dark-themed portfolio site showcasing projects, experiences, and publications.  
 🔗 [Visit Here →](https://sujalabafna.github.io/portfolio-site/)  
 
@@ -49,11 +49,11 @@ Futuristic, animated dark-themed portfolio site showcasing projects, experiences
 
 ## 🛠️ Technical Skills
 
-- **Languages**: C, C++, Embedded C, Python  
-- **Hardware Platforms**: STM32, Arduino, ESP32, Raspberry Pi  
-- **Tools**: Altium Designer, MATLAB/Simulink, Git  
-- **Domains**: Embedded Systems, Robotics, IoT, Control Systems  
-
+- **Embedded Systems & Programming**: C/C++, Embedded C, Python; STM32, TM4C, ESP32, Arduino, Raspberry Pi  
+- **Connectivity & Protocols**: I²C, SPI, UART, RS-485/422/232, CAN, Modbus, BLE, NFC, Zigbee, MQTT 
+- **Hardware & Power**: Altium, Analog/Digital Circuit Design, Power Electronics, EMI Filters, CE Compliance  
+- **System Tools**: MATLAB, NI Multisim, GitHub  
+- **Soft Skills**: Leadership, Teamwork, Problem-Solving, Communication, Project Management, Adaptability  
 ---
 
 ## 🌐 Connect With Me
